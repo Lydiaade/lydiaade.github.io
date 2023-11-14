@@ -1,0 +1,47 @@
+Collections
+This week, Monday 13th November 2023, I have been doing a revisit of Collections in Java. This of course can translate to all languages.
+It has been an interesting time of learning so far. I have been able to revisit the following topics:
+- Queues
+- Stacks
+- Singly/Doubly Linked Lists
+- Dynamic Arrays
+
+Previously, I have not had the opportunity to learn about collections so in depth, it has usually been a whistlestop tour
+of the subject. However, due to me having to cover this as part of my role as teaching assistant on a bootcamp I chose to go back to review this.
+The interesting thing is that so far in my time as developer which is nearly 3 years, I have not had any se for these collection objects.
+I have only really seen it in leetcode challenges or come across it in W3 schools while scrolling, or maybe it's because I
+am usually writing code in Python 🤔 Either way it has been an interesting subject covered.
+
+Quick definitions:
+
+Queues - This follows FIFO (first in first out), where we add objects to the queue object. We can add to it, remove from
+it and view what is in the list as well as what is first or last.
+
+Stacks - This follows LIFO (last in first out), where we add objects to the queue object. We can add to it, remove from
+it and view what is in the list as well as what is first or last.
+
+Singly Linked Lists - This is list made up of nodes. Each node has its data and the address to the next node. It is really
+good for removing nodes in the list (better than arrays when looking at complexity)
+
+Doubly Linked Lists - This is similar to the singly linked nodes however each node has its data and the address to the
+previous and next node. Also, the linkedlist object in java is a doubly linked list.
+
+Dynamic Arrays - This is an automatically extendable/redactable array. Depending on the size of the array content it will
+increase or decrease in size however still behaving like a regular array in Java.
+
+
+Most interesting facts:
+I did enjoy dynamic arrays since I had the opportunity to create my own Dynamic Array object from scratch which was quite fun.
+It is always nice to try and recreate the functionality that exists within the libraries of which we are using which also proves
+out why our programs run at certain rates.
+
+Favourite type:
+My favourite type so far has to be linkedlists maybe because I am practicing use of this type a lot more, but I do love a challenge
+and hope to generate more with this collection type especially since I have seen where it trumps regular arrays in Java at times.
+
+How will I use this in my future projects:
+I am not too sure yet, I dont really have undo functionality or queues, maybe with a shopping site like on Black Friday
+where there may be queues of people wanting to order online and the site could crash due to the number of users 🤷🏾‍
+
+Learning tools:
+Youtube: Bro Code
