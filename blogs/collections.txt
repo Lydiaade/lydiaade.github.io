@@ -6,7 +6,7 @@ It has been an interesting time of learning so far. I have been able to revisit 
 - Singly/Doubly Linked Lists
 - Dynamic Arrays
 
-Previously, I have not had the opportunity to learn about collections so in depth, it has usually been a whistlestop tour
+Previously, I have not had the opportunity to learn about collections in such depth, it has usually been a whistlestop tour
 of the subject. However, due to me having to cover this as part of my role as teaching assistant on a bootcamp I chose to go back to review this.
 The interesting thing is that so far in my time as developer which is nearly 3 years, I have not had any se for these collection objects.
 I have only really seen it in leetcode challenges or come across it in W3 schools while scrolling, or maybe it's because I
